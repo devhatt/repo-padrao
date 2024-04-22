@@ -36,11 +36,14 @@
 1. **Escolha uma Issue:** Explore nossos repositórios de projetos e escolha uma issue que lhe interesse.
 2. **Acompanhamento Completo:** Desde o clone do projeto até o merge da sua tarefa, nossos mentores estarão ao seu lado. Isso inclui revisão de código, discussões sobre soluções e muito mais.
 3. **Siga o nosso Fluxo de Issues**: Verifique nosso [Fluxo de Issues](./docs/FLOWISSUE.md)
-   [Comece sua jornada com a DevHatt agora!](https://discord.gg/devhatt)
+  
 4. **Siga nossas diretrizes de Contribuição:** Verifique nossas [Diretrizes de contribuição](./docs/CONTRIBUTING.md)
 5. **Siga a Guia de Estilo do projeto:** Verifique a [Guia de estilo](./docs/STYLEGUIDE.md) desse projeto
 
+ [Comece sua jornada com a DevHatt agora!](https://discord.gg/devhatt)
+ 
 ## Regras
+
 
 Para garantir um ambiente saudável, respeitoso e receptivo, toda boa comunidade precisa de regras. Nossa equipe de moderação conta com o respaldo dessas regras, as quais foram criadas para tomar as providências cabíveis em cada situação. Este é um trabalho constante, pois frequentemente atualizamos nossas regras de convivência para enfrentar novos problemas que podem surgir. Por isso, é crucial reservar alguns minutos para ler sobre todas elas e, de tempos em tempos, voltar aqui para acompanhar as atualizações.
 
