@@ -12,11 +12,11 @@
 
 ## Expressando Interesse
 
-Dentro da task, você pode expressar seu interesse em trabalhar nela. Você pode adicionar um comentário informando que está interessado em realizar a tarefa. Isso demonstrará sua intenção aos mantenedores do projeto.
+Dentro da task, você pode expressar seu interesse em trabalhar nela. Você pode adicionar um comentário com a exata seguinte frase `eu quero!!!`.
 
 ## Trabalhando na Tarefa
 
-Após comentar, você está apto a trabalhar na task. Um mantenedor do projeto revisará seu interesse e poderá atribuir a tarefa a você.
+Após comentar, você está apto a trabalhar na task. Uma action irá adicionar sua assinatura a tarefa.
 
 ## Abordagem Direta
 

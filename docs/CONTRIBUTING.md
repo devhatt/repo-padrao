@@ -1,6 +1,6 @@
 # Diretrizes de Contribuição para o Repositório Octopost
 
-Bem-vindo ao Octopost! Agradecemos pelo seu interesse em contribuir para este projeto open source. Suas contribuições são fundamentais para o sucesso e a melhoria contínua deste projeto. Antes de começar, por favor, leia e siga estas diretrizes para garantir um processo de contribuição harmonioso e eficaz.
+Bem-vindo! Agradecemos pelo seu interesse em contribuir para este projeto open source. Suas contribuições são fundamentais para o sucesso e a melhoria contínua deste projeto. Antes de começar, por favor, leia e siga estas diretrizes para garantir um processo de contribuição harmonioso e eficaz.
 
 ## Como Contribuir
 
@@ -8,8 +8,8 @@ Bem-vindo ao Octopost! Agradecemos pelo seu interesse em contribuir para este pr
 2. **Clonando o Repositório:** Clone o fork do repositório para a sua máquina local:
 
 ```bash
-   git clone <https://github.com/devhatt/octopost.git>
-   cd octopost
+   git clone <projeto>
+   cd <projeto>
 ```
 
 3. **Pegue uma Issue:** Para instruções mais detalhadas, acesse **[Pegando uma Issue](./FLOWISSUE.md)**.
@@ -26,6 +26,7 @@ Bem-vindo ao Octopost! Agradecemos pelo seu interesse em contribuir para este pr
 6. **Código:** Siga o Style guide [Styleguide](STYLEGUIDE.md)
 7. **Testes:** Certifique-se de que todas as mudanças são testadas e não introduzem erros.
 8. **Commits Significativos:** Faça commits significativos utilizando o [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) e com mensagens claras. Utilizando comando abaixo e seguindo as instruções o commit ficara no padrão utilizado no projeto.
+9. **Regras:** Leia e siga nossas [Regras](CODE_OF_CONDUCT.md)
 
 ```bash
     git commit -m "<type>: <description>"
@@ -42,7 +43,7 @@ Bem-vindo ao Octopost! Agradecemos pelo seu interesse em contribuir para este pr
 
 ## Diretrizes de Contribuição
 
-- **Estilo de Código:** Siga as convenções de estilo de código existentes no projeto.[Style Guide](https://github.com/DevHatt/octopost/blob/master/docs/STYLEGUIDE.md)
+- **Estilo de Código:** Siga as convenções de estilo de código existentes no projeto.[Style Guide](STYLEGUIDE.md)
 - **Documentação:** Sempre atualize a documentação para refletir mudanças significativas.
 - **Testes:** Certifique-se de que suas alterações não quebram testes existentes. Se necessário, adicione novos testes.
 - **Tamanho das Pull Requests:** PRs menores são mais fáceis de revisar e mesclar. Tente manter o escopo de suas contribuições relativamente pequeno.
@@ -50,6 +51,6 @@ Bem-vindo ao Octopost! Agradecemos pelo seu interesse em contribuir para este pr
 
 ## Reconhecimento
 
-Agradecemos por ajudar a melhorar o Octopost! Sua dedicação à qualidade e inovação é fundamental para o sucesso contínuo deste projeto.
+Agradecemos por ajudar a melhorar os projetos DevHatt! Sua dedicação à qualidade e inovação é fundamental para o sucesso contínuo deste projeto.
 
 Se você tiver alguma dúvida ou precisar de ajuda em qualquer etapa do processo de contribuição, sinta-se à vontade para criar um problema (issue) ou entrar em contato com a equipe de mantenedores.[Discord](https://discord.gg/devhatt)
