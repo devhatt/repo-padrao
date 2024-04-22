@@ -34,11 +34,9 @@
 ## Como Contribuir
 
 1. **Escolha uma Issue:** Explore nossos repositórios de projetos e escolha uma issue que lhe interesse.
-2. **Acompanhamento Completo:** Desde o clone do projeto até o merge da sua tarefa, nossos mentores estarão ao seu lado. Isso inclui revisão de código, discussões sobre soluções e muito mais.
-3. **Siga o nosso Fluxo de Issues**: Verifique nosso [Fluxo de Issues](./docs/FLOWISSUE.md)
-  
-4. **Siga nossas diretrizes de Contribuição:** Verifique nossas [Diretrizes de contribuição](./docs/CONTRIBUTING.md)
-5. **Siga a Guia de Estilo do projeto:** Verifique a [Guia de estilo](./docs/STYLEGUIDE.md) desse projeto
+2. **Siga o nosso Fluxo de Issues**: Verifique nosso [Fluxo de Issues](./docs/FLOWISSUE.md)
+3. **Siga nossas diretrizes de Contribuição:** Verifique nossas [Diretrizes de contribuição](./docs/CONTRIBUTING.md)
+4. **Siga a Guia de Estilo do projeto:** Verifique a [Guia de estilo](./docs/STYLEGUIDE.md) desse projeto
 
  [Comece sua jornada com a DevHatt agora!](https://discord.gg/devhatt)
  
