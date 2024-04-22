@@ -3,7 +3,9 @@
 ## Algumas partes são obrigatórios nos projetos como: Banner do projeto, Introdução do projeto, Explicação do projeto,Como contribuir, Como rodar o projeto,Tirar dúvidas, Regras, e Redes sociais
 
 [BANNER DO PROJETO]
+
 [Introdução sobre o projeto]
+
 [**Junte-se a nós na DevHatt e transforme sua paixão por tecnologia em impacto real!**](https://discord.gg/devhatt)
 
 ## Índice
