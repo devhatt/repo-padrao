@@ -1,6 +1,9 @@
 # Este é o nosso README padrão para novos projetos DevHatt! Não se esqueça de remover o que for desnecessário para o seu projeto e verificar [Código de Conduta](./docs/CODE_OF_CONDUCT.md), [Contribuição](./docs/CONTRIBUTING.md), [Flow Issue](./docs/FLOWISSUE.md), [StyleGuide](./docs/STYLEGUIDE.md) e também os templates de actions dentro da pasta .github
 
 ## Algumas partes são obrigatórios nos projetos como: Banner do projeto, Introdução do projeto, Explicação do projeto,Como contribuir, Como rodar o projeto,Tirar dúvidas, Regras, e Redes sociais
+[![Discord Server](https://img.shields.io/discord/308323056592486420?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/devhatt)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DevHatt?style=social)](https://twitter.com/DevHatt)
+[adicione badges conforme necessario]
 
 [BANNER DO PROJETO]
 
@@ -27,13 +30,15 @@
 
 ## Tirar Dúvidas
 
-- **Canal de Help no Discord:** Para dúvidas gerais, utilize nosso canal dedicado no Discord. É um espaço perfeito para receber suporte rápido da comunidade.
+- **Canal de Help no Discord:** Para dúvidas sobre o projeto utilize o [LINK O CHAT do projeto]
 - **Salas Interativas:** Prefere uma interação mais direta? Junte-se a qualquer sala aberta no Discord e converse com outros membros que podem ajudar com suas dúvidas em tempo real.
 - **Plantões de Dúvidas:** Organizamos sessões especiais em horários determinados onde mentores estão disponíveis para ajudar com questões mais complexas.
+- **One-a-One:** Você também pode marcar um 1:1 com o mentor do projeto.
+- **Daily:** Se a sua dúvida for algo rápido, você também pode tirar suas dúvidas durante a daily.
 
 ## Como Contribuir
 
-1. **Escolha uma Issue:** Explore nossos repositórios de projetos e escolha uma issue que lhe interesse.
+1. **Escolha uma Issue:** Explore nossas issues [Link as issues] 
 2. **Siga o nosso Fluxo de Issues**: Verifique nosso [Fluxo de Issues](./docs/FLOWISSUE.md)
 3. **Siga nossas diretrizes de Contribuição:** Verifique nossas [Diretrizes de contribuição](./docs/CONTRIBUTING.md)
 4. **Siga a Guia de Estilo do projeto:** Verifique a [Guia de estilo](./docs/STYLEGUIDE.md) desse projeto
