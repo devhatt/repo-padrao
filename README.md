@@ -3,11 +3,22 @@
 ## Algumas partes são obrigatórios nos projetos como: Banner do projeto, Introdução do projeto, Explicação do projeto,Como contribuir, Como rodar o projeto,Tirar dúvidas, Regras, e Redes sociais
 [![Discord Server](https://img.shields.io/discord/308323056592486420?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/devhatt)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DevHatt?style=social)](https://twitter.com/DevHatt)
-[adicione badges conforme necessario]
+[![GitHub Commit Activity (Week)](https://img.shields.io/github/commit-activity/w/devhatt/octopost)](https://github.com/devhatt/octopost/pulse)
+[![GitHub Contributors](https://img.shields.io/github/contributors/devhatt/octopost)](https://github.com/devhatt/octopost/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/devhatt/octopost.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/devhatt/octopost/stargazers/)
+
+[adicione badges conforme necessario, não esqueça das badges de stack do projeto]
+
+# [LEMBRE-SE DE VERIFICAR O BADGE DE COMMIT ACTIVITY, CONTRIBUTOR E STARS, ELES SÃO ATRELADOS AO LINK DO PROJETO ENTÃO PRECISA ALTERAR PARA CADA UM]
 
 [BANNER DO PROJETO]
 
 [Introdução sobre o projeto]
+
+## Esse projeto é e sempre será open source como parte do programa de mentoria da comunidade [Devhatt](https://github.com/devhatt), contribuições são completamente bem vindas e incentivadas!
+
+[Explicação sucinta do que o projeto faz e qual seu objetivo]![image](https://github.com/devhatt/repo-padrao/assets/76929097/d9546347-1a2e-4c84-826e-4d36726011a3)
+
 
 [**Junte-se a nós na DevHatt e transforme sua paixão por tecnologia em impacto real!**](https://discord.gg/devhatt)
 
@@ -24,17 +35,28 @@
 
 [Explicação sobre o Projeto]
 
+[Oque o projeto é? Qual problema ele resolve? Quais techs usadas? E etc]
+
+[Modelo de negocio por cima, por exemplo octopost: aplicação para resolver problema de multiplas plataformas de rede social, petdex: aplicação para centralizar e facilitar busca por pets. Explique o publico alvo e estratégia de monetização]
+
 ## Como rodar
 
 [Explicação sobre como rodar o projeto, como instalar dependências e etc]
 
+[Existe alguma dependencia no sistema operacional? existe algum motivo especial para usar as libs que usamos? existe alguma dependencia que precisa ser instalada de maneira especial? detalhe aqui]
+
+
+## Estudos
+
+[Adicione aqui documentações e canal de MATERIAL para facilitar na busca por conteudo do oque é utlizado no projeto]
+
 ## Tirar Dúvidas
 
 - **Canal de Help no Discord:** Para dúvidas sobre o projeto utilize o [LINK O CHAT do projeto]
-- **Salas Interativas:** Prefere uma interação mais direta? Junte-se a qualquer sala aberta no Discord e converse com outros membros que podem ajudar com suas dúvidas em tempo real.
+- **Salas Interativas:** Prefere uma interação mais direta? Junte-se a qualquer sala aberta no Discord e converse com outros membros que podem ajudar com suas dúvidas em tempo real.[ADICIONE O FORÇA DO PROJETO]
 - **Plantões de Dúvidas:** Organizamos sessões especiais em horários determinados onde mentores estão disponíveis para ajudar com questões mais complexas.
-- **One-a-One:** Você também pode marcar um 1:1 com o mentor do projeto.
-- **Daily:** Se a sua dúvida for algo rápido, você também pode tirar suas dúvidas durante a daily.
+- **One-a-One:** Você também pode marcar um 1:1 com o mentor do projeto.[ADICIONE O CALENDLY SE HOUVER, SE NÃO HOUVER MENTOR PARA ONE-A-ONE DESSE PROJETO, REMOVA ESSA SEÇÃO]
+- **Daily:** Se a sua dúvida for algo rápido, você também pode tirar suas dúvidas durante a daily..[ADICIONE O MEETING  DO PROJETO]
 
 ## Como Contribuir
 
